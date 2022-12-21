@@ -1,6 +1,6 @@
-from Project.Func_Search import recipe_search
-from Project.Func_Search import save_result
-from Project.Func_Search import add_recipe
+from Project.func_search import recipe_search
+from Project.func_search import save_result
+from Project.func_search import add_recipe
 
 
 def run_again():
